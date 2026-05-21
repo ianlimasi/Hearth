@@ -53,14 +53,14 @@ The wheel broke during the class showcase — here's the full iteration process:
 |-----------|-------|-----|
 | <img width="5712" height="4284" alt="IMG_2110" src="https://github.com/user-attachments/assets/b562fa20-c6c2-42c0-9870-e6349aff0070" />| Broke at showcase, too fragile (used hot glue gun and plastic straw) | Used bolts, washers, and nuts instead. Also added holes for magnet securing and the handle. |
 | <img width="4032" height="3024" alt="IMG_2111" src="https://github.com/user-attachments/assets/e00d4f02-3d86-4773-b04b-bdfb9b709641" />| The wheel could not reliably move due to the tightness from the washers and nuts | Used a makeshift sleeve from a cut up plastic straw slightly longer than the disk's thickeness. Also added holes for wires to pass through and be secured.|
-| <img width="200" height="250" alt="IMG_2113" src="https://github.com/user-attachments/assets/ec8d4985-dcc8-4c77-8f8f-d7905c440e40" /> <img width="200" height="250" alt="IMG_2112" src="https://github.com/user-attachments/assets/982b3db3-747c-4bd3-883f-9bab4950d21c" />| Spin is reliable but the set up is a bit finicky. | Use ball bearings instead. |
+| <img width="1215" height="793" alt="Screenshot 2026-05-21 at 13 27 05" src="https://github.com/user-attachments/assets/cab9765b-f2ad-44e8-9b2c-0b9f07f0c698" /> <img width="200" height="250" alt="IMG_2113" src="https://github.com/user-attachments/assets/ec8d4985-dcc8-4c77-8f8f-d7905c440e40" /> <img width="200" height="250" alt="IMG_2112" src="https://github.com/user-attachments/assets/982b3db3-747c-4bd3-883f-9bab4950d21c" />| Spin is reliable but the set up is a bit finicky. | Use ball bearings instead. |
 | To be continued | - | - |
 
 ---
 
 ## Software
-- **Arduino (C++)** — sensor reading, Serial communication, LED + buzzer output
-- **p5.js** — game loop, temperature simulation, visual rendering, Web Serial API
+- **Arduino (C++)**: sensor reading, Serial communication, LED + buzzer output
+- **p5.js**: game loop, temperature simulation, visual rendering, Web Serial API
 ---
 
 ## Related Projects
