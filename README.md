@@ -1,5 +1,5 @@
 # Hearth
-> A winter survival game where you power a mushroom house's furnace to survive the cold.
+A winter survival game where you power a mushroom house's furnace to survive the cold.
 
 Built for CSE493F Physical Computing at the University of Washington.
 
