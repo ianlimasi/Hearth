@@ -47,7 +47,7 @@ Notes:
 ---
 
 ## Wheel Design Iterations
-The wheel broke during the class showcase — here's the full iteration process:
+The wheel broke during the class showcase, so here's the full iteration process:
 
 | Prototype | Issue | Fix |
 |-----------|-------|-----|
